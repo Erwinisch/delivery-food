@@ -1,0 +1,43 @@
+$primary: #44BEA6;
+$secondary: #F79541;
+$input-placeholder-color:#fff;
+$card-border-radius:1rem;
+
+// bootstrap
+@import "../bootstrap/scss/bootstrap.scss";
+// smooth scrolling
+html {
+    scroll-behavior: smooth;
+  }
+// color texto
+p{color:$primary}
+// margen secciones
+.mh{margin-top: 10rem;}
+.mt{margin-top: 15rem;}
+// centrar elementos
+.centrar{align-self: center;}
+// header
+// section home
+
+// Columna search-food
+.search-food{
+ form{
+     input{
+         border-color: $secondary;
+         border-width: 3px;
+     }
+ }
+}
+// Columna delivery-bici
+// end section home
+// section about
+// section categories
+// section login
+.bg-cubo-gris{
+    background-image: url(../img/bg-login.svg);z-index: -1;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
