@@ -5,19 +5,12 @@ $card-border-radius:1rem;
 
 // bootstrap
 @import "../bootstrap/scss/bootstrap.scss";
-// smooth scrolling
-html {
-    scroll-behavior: smooth;
-  }
+
 // color texto
 p{color:$primary}
 // margen secciones
 .mh{margin-top: 10rem;}
 .mt{margin-top: 15rem;}
-// centrar elementos
-.centrar{align-self: center;}
-// header
-// section home
 
 // Columna search-food
 .search-food{
@@ -28,10 +21,7 @@ p{color:$primary}
      }
  }
 }
-// Columna delivery-bici
-// end section home
-// section about
-// section categories
+
 // section login
 .bg-cubo-gris{
     background-image: url(../img/bg-login.svg);z-index: -1;
