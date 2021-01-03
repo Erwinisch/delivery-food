@@ -9896,10 +9896,6 @@ h3 {
     border-color: #dee2e6;
   }
 }
-html {
-  scroll-behavior: smooth;
-}
-
 p {
   color: #44BEA6;
 }
@@ -9910,10 +9906,6 @@ p {
 
 .mt {
   margin-top: 15rem;
-}
-
-.centrar {
-  align-self: center;
 }
 
 .search-food form input {
