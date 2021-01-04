@@ -9896,6 +9896,10 @@ h3 {
     border-color: #dee2e6;
   }
 }
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 p {
   color: #44BEA6;
 }

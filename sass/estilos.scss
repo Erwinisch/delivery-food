@@ -5,7 +5,8 @@ $card-border-radius:1rem;
 
 // bootstrap
 @import "../bootstrap/scss/bootstrap.scss";
-
+// Fuente body
+body{font-family: 'Poppins', sans-serif;}
 // color texto
 p{color:$primary}
 // margen secciones
